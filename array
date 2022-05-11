@@ -1,0 +1,13 @@
+#include<iostream>
+
+using namespace std;
+int main(){
+    string namasiswa[4]={"Anniko","hanis","samuel","justin"
+};
+cout<<namasiswa[0]<<endl<<namasiswa[1]<<endl<<namasiswa[2]<<endl<<namasiswa[3]<<endl;
+
+
+
+      
+     return 0;
+}
